@@ -1,5 +1,5 @@
 # music
-this is my music production learning journey documented
+this is some my music experimentation documented
 
 # how to read file names
 the last number is which hour of the song it is, while everything in front is which song is it
