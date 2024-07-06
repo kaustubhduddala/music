@@ -10,7 +10,7 @@ the last number is which hour of the song it is, while everything in front is wh
 
 1.wav = song 0, 1 hour in
 
-428853 = song 42885, 3 hours in
+428853.wav = song 42885, 3 hours in
 
 so far no song has taken over 9 hours, but it it comes to that i'll have a system in place for that too
 
